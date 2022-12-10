@@ -16,8 +16,7 @@ import org.junit.runners.Parameterized;
  * @author Frankz
  */
 @RunWith(value = Parameterized.class)
-public class CalculatorParametersTest {
-    
+public class CalculatorParametersTest {    
     private int a, b, expected;
     
     public CalculatorParametersTest(int a, int b, int expected) {
