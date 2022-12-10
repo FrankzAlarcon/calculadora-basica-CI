@@ -59,8 +59,8 @@
     <property name="sun.cpu.endian" value="little"/>
     <property name="sun.cpu.isalist" value="amd64"/>
   </properties>
-  <testcase classname="com.frankz.ci_operacionesbasicas.CalculatorTest" name="given_dos_numeros_when_suma_then_ok" time="0"/>
-  <testcase classname="com.frankz.ci_operacionesbasicas.CalculatorTest" name="given_dos_numeros_when_division_then_ok" time="0.001"/>
+  <testcase classname="com.frankz.ci_operacionesbasicas.CalculatorTest" name="given_dos_numeros_when_suma_then_ok" time="0.001"/>
+  <testcase classname="com.frankz.ci_operacionesbasicas.CalculatorTest" name="given_dos_numeros_when_division_then_ok" time="0"/>
   <testcase classname="com.frankz.ci_operacionesbasicas.CalculatorTest" name="given_dos_numeros_when_resta_then_ok" time="0"/>
   <testcase classname="com.frankz.ci_operacionesbasicas.CalculatorTest" name="given_dos_numeros_when_multiplicacion_then_ok" time="0"/>
 </testsuite>
