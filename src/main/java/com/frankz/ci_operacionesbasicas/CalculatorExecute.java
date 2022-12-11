@@ -19,5 +19,9 @@ public class CalculatorExecute {
         
         int subtraction = c.resta(4, 7);
         System.out.println("c.resta(4, 7) =  " + subtraction);
+        
+        System.out.println("==== New Push ====");
+        System.out.println("== It is a change!! ==");
+        System.out.println("========================");
     }    
 }
